@@ -39,6 +39,7 @@ header {
     font-size: 18px;
     margin: 0 auto;
     max-width: 900px;
+    width: 100%;
     padding: 50px 40px;
     float: center;
 }
