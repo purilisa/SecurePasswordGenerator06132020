@@ -38,7 +38,7 @@ header {
     color: hsl(206, 17%, 28%);
     font-size: 18px;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 900px;
     padding: 50px 40px;
     float: center;
 }
@@ -137,8 +137,8 @@ button[disabled] {
 
 .slidecontainer {
     width: 100%;
-    background-color: green;
-    border-style: solid;
+    border-style: ridge;
+    background-color: darkgray;
     /* Width of the outside container */
 }
 
@@ -257,7 +257,7 @@ h4 {
 }
 
 #column3 {
-    float: left;
+    float: center;
     width: 350px;
     margin: 5px;
     padding: 5px;
